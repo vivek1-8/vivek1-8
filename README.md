@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucky kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucky kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Vivek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vivek kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek._.kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek._.kumar" height="30" width="40" /></a>
 </p>
 
@@ -27,8 +27,8 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucky6203&show_icons=true&locale=en&layout=compact" alt="lucky6203" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek1-8&show_icons=true&locale=en&layout=compact" alt="vivek1-8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucky6203&show_icons=true&locale=en" alt="lucky6203" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek1-8&show_icons=true&locale=en" alt="vivek1-8" /></p>vivek1-8
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucky6203&" alt="lucky6203" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek1-8&" alt="vivek1-8" /></p>
